@@ -104,4 +104,4 @@ app.get('/services', (req, res) => {
 
 });
 
-app.listen(process.env.PORT|| port);
+app.listen(process.env.PORT || port);
